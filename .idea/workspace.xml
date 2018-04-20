@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72a32227-7db6-4734-8ae2-1a9cb5ac2fb3" name="Default" comment="second">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thymeleaf/common/aboutus.html" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/thymeleaf/common/aboutus.html" />
-    </list>
+    <list default="true" id="72a32227-7db6-4734-8ae2-1a9cb5ac2fb3" name="Default" comment="second" />
     <ignored path="$PROJECT_DIR$/src/main/java/com/fh/cm/action/" />
     <ignored path="$PROJECT_DIR$/src/main/java/com/fh/common/cache/" />
     <ignored path="$PROJECT_DIR$/src/main/java/com/fh/common/task/" />
@@ -1015,7 +1012,7 @@
       <workItem from="1521178523775" duration="7062000" />
       <workItem from="1521246417929" duration="2880000" />
       <workItem from="1524188768963" duration="133000" />
-      <workItem from="1524189021475" duration="2767000" />
+      <workItem from="1524189021475" duration="2877000" />
     </task>
     <task id="LOCAL-00001" summary="q">
       <created>1520925239820</created>
@@ -1042,7 +1039,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="201767000" />
+    <option name="totallyTimeSpent" value="201877000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
